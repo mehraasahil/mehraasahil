@@ -9,14 +9,14 @@ mehraasahil/mehraasahil is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ### Hi there 👋, I'm [Sahil Mehra](https://github.com/mehraasahil)
-) 👨‍💻
+ 👨‍💻
 
 ### Visitors-Count
 ![Visitor Count](https://profile-counter.glitch.me/{mehraasahil}/count.svg)   
 
 <br/>
 
-<a href="https://">
+<a href="https://www.linkedin.com/in/sahil-mehra-b32bb1190/">
   <img align="left" alt="Sharad's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt=" | Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="mailto:">
+<a href="mehra3249@gmail.com">
   <img align="left" alt="Sahil's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
