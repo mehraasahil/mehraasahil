@@ -83,7 +83,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 ###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-mehra-b32bb1190/)](https://www.linkedin.com/in//)or[![Gmail Badge](https://img.shields.io/badge/-mehra3249@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehra3249@gmail.com)](mailto:mehra3249@gmail.com)
 
 
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sahil?label=Follow&style=social)](https://github.com/mehraasahil/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@mehraasahil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
+###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sahil?label=Follow&style=social)](https://github.com/mehraasahil/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@mehraasahil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/mehraa_sahil) if you are on a similar path as mine.
 
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Sahil Mehra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/)](https://www.linkedin.com/in)
