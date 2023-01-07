@@ -55,7 +55,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 - 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
 
 - 📫 How to reach me: mehra3249@gmail.com
-- 📝 [Resume](add your link here)
+- 📝 [Resume](https://drive.google.com/file/d/1EfJVbcRoXJEXEFUan6ihB_G7NpFPgKm7/view?usp=share_link)
 
 ### 🛠️ Languages and Tools:
 
