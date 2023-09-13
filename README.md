@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil Mehra
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently working on Self-Development -  Website - NODE JS + React & Redux - Cars website.
+- 🌱 I’m currently working on Self-Development -  Website - NODE JS + React js + MongoDB.
 - 💞️ I’m looking to collaborate with someone who is working on Web Application Project.
 - 📫 How to reach me - github id - mehraasahil
 
