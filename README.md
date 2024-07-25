@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sahil Mehra
+ 👋 Hi, I’m Sahil Mehra
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently working on Self-Development -  Website - NODE JS + React js + MongoDB.
 - 💞️ I’m looking to collaborate with someone who is working on Web Application Project.
@@ -97,13 +97,13 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehraasahil&theme=blue-green)
 
 
-![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   
 
 
 
 <!--new  -->
 
-<h3 align="left">Full Stack Web Developer and Electronics Engineer</h3>
+<h3 align="left">Software Engineer</h3>
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekrishnakishor&theme=blue-green)-->
 
@@ -111,14 +111,14 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
   <summary><b>Language stats</b></summary>
   <br/>
   <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekrishnakishor&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekrishnakishor&theme=nord_bright">
-    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekrishnakishor&theme=nord_dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehraasahil&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehraasahil&theme=nord_bright">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehraasahil&theme=nord_dark">
   </picture>
   <picture align="right">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekrishnakishor&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekrishnakishor&theme=nord_bright">
-    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekrishnakishor&theme=nord_dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehraasahil&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehraasahil&theme=nord_bright">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehraasahil&theme=nord_dark">
   </picture>
 </details>
 
@@ -160,9 +160,9 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnakishor&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnakishor&theme=nord_bright">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnakishor&theme=nord_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehraasahil&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehraasahil&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehraasahil&theme=nord_dark">
 </picture>
 
 <p align="left">
@@ -173,21 +173,21 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
       <img alt="Telegram" src="https://img.shields.io/badge/telegram-eceff4.svg?&style=for-the-badge&logo=telegram">
     </picture>
   </a>&nbsp;
-  <a href="mailto:info.krishnakishor@gmail.com">
+  <a href="mailto:mehra3249@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
       <img alt="Gmail" src="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
     </picture>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/imkrishna13" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-mehra-b32bb1190/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
       <img alt="LindedIn" src="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
     </picture>
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/krishnakishor" target="_blank">
+  <a href="" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HackerRank-2e3440.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/HackerRank-eceff4.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
