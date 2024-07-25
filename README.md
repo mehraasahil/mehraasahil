@@ -55,7 +55,6 @@
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-
 <picture>           
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehraasahil&theme=nord_dark">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehraasahil&theme=nord_bright">
