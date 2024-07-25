@@ -4,7 +4,7 @@
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekrishnakishor&theme=blue-green)-->
 
-<details>
+
   <summary><b>Language stats</b></summary>
   <br/>
   <picture align="left">
@@ -17,10 +17,10 @@
     <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehraasahil&theme=nord_bright">
     <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehraasahil&theme=nord_dark">
   </picture>
-</details>
 
 
-<details>
+
+
   <summary><b>Technologies I Use</b></summary>
   <br />
   
@@ -53,7 +53,7 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB) 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-</details>
+
 
 
 <picture>           
