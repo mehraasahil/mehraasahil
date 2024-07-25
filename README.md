@@ -56,7 +56,7 @@
 </details>
 
 
-<picture>
+<picture>          <img alt="" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehraasahil&theme=nord_dark">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehraasahil&theme=nord_bright">
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehraasahil&theme=nord_dark">
